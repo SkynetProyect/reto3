@@ -1,0 +1,5 @@
+/home/developer/Documents/uni/ejemplo-docker-compose/backend/src/main/java/co/edu/udem/ejemplodockercompose/EjemploDockerCompose.java
+/home/developer/Documents/uni/ejemplo-docker-compose/backend/src/main/java/co/edu/udem/ejemplodockercompose/controller/EstudianteController.java
+/home/developer/Documents/uni/ejemplo-docker-compose/backend/src/main/java/co/edu/udem/ejemplodockercompose/model/Estudiante.java
+/home/developer/Documents/uni/ejemplo-docker-compose/backend/src/main/java/co/edu/udem/ejemplodockercompose/repository/EstudianteRepository.java
+/home/developer/Documents/uni/ejemplo-docker-compose/backend/src/main/java/co/edu/udem/ejemplodockercompose/service/EstudianteService.java

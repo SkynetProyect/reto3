@@ -1,0 +1,5 @@
+co/edu/udem/ejemplodockercompose/model/Estudiante.class
+co/edu/udem/ejemplodockercompose/EjemploDockerCompose.class
+co/edu/udem/ejemplodockercompose/service/EstudianteService.class
+co/edu/udem/ejemplodockercompose/repository/EstudianteRepository.class
+co/edu/udem/ejemplodockercompose/controller/EstudianteController.class
